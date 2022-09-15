@@ -3,6 +3,7 @@ const registro = ()=> {
         window.location.href="pages/formulario.html"
     }
 }
+//prueba
 setTimeout(() => {
     registro()
 }, 5000);
